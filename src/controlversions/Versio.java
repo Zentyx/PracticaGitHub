@@ -27,7 +27,6 @@ public class Versio {
     }
     
     public void fantasma() {
-        System.out.println("Modificación");
     }
 
 }
