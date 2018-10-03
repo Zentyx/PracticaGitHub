@@ -17,5 +17,9 @@ public class Versio {
     public void metodo1() {
 
     }
+    
+        public void metodo2() {
+
+    }
 
 }
