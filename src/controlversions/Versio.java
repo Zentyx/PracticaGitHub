@@ -27,7 +27,7 @@ public class Versio {
     }
     
     public void fantasma() {
-        System.out.println("Lo modifico más adelante porque me he saltado este paso");
+        System.out.println("Lo modifico más adelante porque me he saltado este paso.Vuelvo a modificar");
     }
 
 }
