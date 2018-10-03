@@ -25,5 +25,9 @@ public class Versio {
     public void metodo3() {
 
     }
+    
+    public void fantasma() {
+
+    }
 
 }
